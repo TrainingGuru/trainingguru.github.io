@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "client-trainingguruapp",
+  "short_name": "client-trainingguruapp",
+  "start_url": "/?utm_source=web_app_manifest"
+}
